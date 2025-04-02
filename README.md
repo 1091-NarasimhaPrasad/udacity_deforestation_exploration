@@ -12,7 +12,7 @@ Report Sections The report has five sections that you will need to complete:
 Global Situation Regional Outlook Country-Level Detail Recommendations Appendix: SQL queries used
 
 # Files used
-forest_area.csv
-land_area.csv
-regions.csv
-Deforestation Exploration project template.doc
+1.forest_area.csv
+2.land_area.csv
+3.regions.csv
+4.Deforestation Exploration project template.doc
